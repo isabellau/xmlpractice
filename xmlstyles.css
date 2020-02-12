@@ -7,13 +7,11 @@ SETLIST {
 }
 
 song {
-	background-color: #2a2a2a;
 	display: block;
   	margin-bottom:  20pt;
 }
 
 songtitle {
-	background-color: #2a2a2a;
 	display: block;
 	font-size: 30pt;
   	color: #20b9c6;
@@ -21,7 +19,6 @@ songtitle {
 }
 
 artist {
-	background-color: #2a2a2a;
 	display: block;
 	font-size: 20pt;
   	color: #a1378c;
@@ -29,7 +26,6 @@ artist {
 }
 
 genre {
-	background-color: #2a2a2a;
 	display: block;
 	font-size: 20pt;
 	color: #1E9745;
@@ -38,7 +34,6 @@ genre {
 }
 
 year {
-	background-color: #2a2a2a;
 	display: block;
 	font-size: 20pt;
   	color: #fff;
